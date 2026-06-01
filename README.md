@@ -7,6 +7,7 @@ Program Studi D4 Teknik Komputer, Politeknik Elektronika Negeri Surabaya (PENS) 
 
 
 👥 Tim Pengembang
+
 | 1 | Muhammad Alamsyah | 3225600013 | Struktur Data & Input Karyawan |
 | 2 | Mohammad Muzakki Romadhoni | 3225600022 | Pencarian & Penghapusan Data |
 
@@ -48,6 +49,7 @@ yang menunjuk ke node berikutnya.
 
 
 📁 Struktur Project
+
 KaryawanMFC/
 ├── Header Files/
 │   ├── Karyawan.h          # Struktur data & linked list
