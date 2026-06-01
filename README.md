@@ -8,8 +8,11 @@ Program Studi D4 Teknik Komputer, Politeknik Elektronika Negeri Surabaya (PENS) 
 
 👥 Tim Pengembang
 
+| No | Nama | NRP | Modul |
+|----|------|-----|-------|
 | 1 | Muhammad Alamsyah | 3225600013 | Struktur Data & Input Karyawan |
 | 2 | Mohammad Muzakki Romadhoni | 3225600022 | Pencarian & Penghapusan Data |
+
 
 
 📋 Deskripsi Aplikasi
@@ -42,6 +45,7 @@ yang menunjuk ke node berikutnya.
 💻 Teknologi yang Digunakan
 
 | No | Tools | Kegunaan |
+|----|-------|----------|
 | 1 | Visual Studio 2022 | IDE Pemrograman |
 | 2 | C++ | Bahasa Pemrograman Utama |
 | 3 | MFC (Microsoft Foundation Class) | Framework GUI |
@@ -50,6 +54,7 @@ yang menunjuk ke node berikutnya.
 
 📁 Struktur Project
 
+```
 KaryawanMFC/
 ├── Header Files/
 │   ├── Karyawan.h          # Struktur data & linked list
@@ -62,6 +67,7 @@ KaryawanMFC/
 ├── Resource Files/
 │   └── KaryawanMFC.rc      # Desain tampilan dialog GUI
 └── KaryawanMFC.sln         # File solution Visual Studio 2022
+```
 
 
 🚀 Cara Menjalankan
