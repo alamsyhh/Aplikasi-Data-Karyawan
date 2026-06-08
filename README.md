@@ -1,7 +1,7 @@
 🏢 Aplikasi Data Karyawan — MFC C++
 
 Aplikasi pengelolaan data karyawan berbasis GUI menggunakan bahasa pemrograman 
-C++ dengan framework MFC (Microsoft Foundation Class) pada Visual Studio 2022.
+C++ dengan framework MFC (Microsoft Foundation Class) pada Aplikasi Visual Studio 2022.
 Dikembangkan sebagai Proyek UAS Mata Kuliah Pemrograman Dasar 2,
 Program Studi D4 Teknik Komputer, Politeknik Elektronika Negeri Surabaya (PENS) 2026.
 
