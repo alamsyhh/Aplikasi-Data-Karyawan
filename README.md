@@ -120,6 +120,6 @@ Anggota 3 — Tampilan & Pengolahan Data (Dikerjakan bersama Anggota 1 dan 2)
 
 > Pemrograman Dasar 2 (PD2)
 > Dosen Pengampu: Dr. Ir. Sigit Wasista, M.Kom.  
-> Program Studi Sarjana Terapan Teknik Komputer  
+> Program Studi Sarjana Terapan Teknik Komputer Kelas A 
 > Politeknik Elektronika Negeri Surabaya  
 > Tahun Akademik 2025/2026
